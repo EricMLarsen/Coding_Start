@@ -11,6 +11,8 @@ to change to a directory: cd(space) directory name (can start typing and hit tab
 
 ## Getting and giving files from git
 
+to see most up to date directory: git pull
+
 to check what files you need to be given (they have been altered): git status
 
 to add a new file you have made: git add (file name)
